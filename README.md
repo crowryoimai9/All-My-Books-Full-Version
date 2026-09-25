@@ -240,4 +240,4 @@ This repository serves as the official landing page for All My Books. The softwa
 **Get the most recent version of All My Books today!**
 
 ---
-**Last updated:** 2026-09-24 23:35:51 UTC
+**Last updated:** 2026-09-25 02:02:24 UTC
